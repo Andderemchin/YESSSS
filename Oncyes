@@ -34,8 +34,8 @@
           "SaveCredentials": true,
           "ServerPollTimeout": 10,
           "UserAuthenticationType": "Password",
-          "Username": "Admin",
-          "Password": "123"
+          "Username": "<Admin>",
+          "Password": "<123>"
         }
       }
     }
